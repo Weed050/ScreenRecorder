@@ -9,7 +9,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="SharpAvi" Version="3.0.1" />
+    <PackageReference Include="VisioForge.DotNet.Core.Redist.VideoCapture.x64" Version="15.5.62" />
+    <PackageReference Include="VisioForge.DotNet.VideoCapture.TRIAL" Version="15.1.12" />
   </ItemGroup>
 
 </Project>
